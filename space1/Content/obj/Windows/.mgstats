@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/elev/Downloads/space1/Content/Background/spaceMenu.jpg","C:/Users/elev/Downloads/space1/Content/bin/Windows/Background/spaceMenu.xnb","TextureProcessor","Texture2DContent",198255,3512405,0,9528698
+"C:/Users/elev/Downloads/space1/Content/Background/SpelBakgrund.jpg","C:/Users/elev/Downloads/space1/Content/bin/Windows/Background/SpelBakgrund.xnb","TextureProcessor","Texture2DContent",279461,8294485,0,4842599
+"C:/Users/elev/Downloads/space1/Content/Bullet.png","C:/Users/elev/Downloads/space1/Content/bin/Windows/Bullet.xnb","TextureProcessor","Texture2DContent",212,281,0,0156221
+"C:/Users/elev/Downloads/space1/Content/Button.png","C:/Users/elev/Downloads/space1/Content/bin/Windows/Button.xnb","TextureProcessor","Texture2DContent",280,14485,0,0156204
+"C:/Users/elev/Downloads/space1/Content/Explosion.png","C:/Users/elev/Downloads/space1/Content/bin/Windows/Explosion.xnb","TextureProcessor","Texture2DContent",354,4417,0,0156229
+"C:/Users/elev/Downloads/space1/Content/Font.spritefont","C:/Users/elev/Downloads/space1/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,5467453
+"C:/Users/elev/Downloads/space1/Content/Ships/Enemy_1.png","C:/Users/elev/Downloads/space1/Content/bin/Windows/Ships/Enemy_1.xnb","TextureProcessor","Texture2DContent",1426,28085,0,0156203
+"C:/Users/elev/Downloads/space1/Content/Ships/Enemy_2.png","C:/Users/elev/Downloads/space1/Content/bin/Windows/Ships/Enemy_2.xnb","TextureProcessor","Texture2DContent",1398,28085,0,0156211
+"C:/Users/elev/Downloads/space1/Content/Ships/Player.png","C:/Users/elev/Downloads/space1/Content/bin/Windows/Ships/Player.xnb","TextureProcessor","Texture2DContent",1399,28085,0,0312433
