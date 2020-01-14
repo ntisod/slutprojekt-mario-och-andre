@@ -8,6 +8,7 @@ using Microsoft.Xna.Framework;
 
 namespace space1.Sprites
 {
+    // hanterar skotten, hur länge de ska finnas, vad de kan kollidera med osv
   public class Bullet : Sprite, ICollidable
   {
     private float _timer;

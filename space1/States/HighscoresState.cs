@@ -12,6 +12,7 @@ using space1.Managers;
 
 namespace space1.States
 {
+    // hanterar skärmen för highscore, knapparna, font
   public class HighscoresState : State
   {
     private List<Component> _components;

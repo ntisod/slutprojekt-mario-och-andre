@@ -2,7 +2,15 @@
 <ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Score>
     <PlayerName>Player 1</PlayerName>
+    <Value>22</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
     <Value>4</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>2</Value>
   </Score>
   <Score>
     <PlayerName>Player 1</PlayerName>

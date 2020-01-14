@@ -12,6 +12,7 @@ namespace space1.Managers
 {
   public class EnemyManager
   {
+        // den beskriver hur fienden ska fungera och vad de har för egenskaper 
     private float _timer;
 
     private List<Texture2D> _textures;

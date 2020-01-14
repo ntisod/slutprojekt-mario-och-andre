@@ -8,6 +8,7 @@ using Microsoft.Xna.Framework;
 
 namespace space1.Sprites
 {
+    // hanterar fienderna, hur snabbt de skjuter och hur ofta de ska spawna
   public class Enemy : Ship
   {
     private float _timer;

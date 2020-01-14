@@ -9,6 +9,7 @@ namespace space1.Models
 {
   public class Input
   {
+        // bevarar tangent tryck sen get och tar dem 
     public Keys Up { get; set; }
 
     public Keys Down { get; set; }

@@ -11,6 +11,7 @@ using space1.Controls;
 
 namespace space1.States
 {
+    // knapparna för menyn och var de gör och hur de fungerar
   public class MenuState : State
   {
     private List<Component> _components;

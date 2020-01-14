@@ -9,6 +9,7 @@ using space1.Models;
 
 namespace space1.Managers
 {
+    // den hanterar animationerna i spelet så att bilderna spelas efter varandra.
   public class AnimationManager : ICloneable
   {
     private Animation _animation;

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace space1.Models
 {
+    // variabler för att sätta in och och få andra variabler, och hanterar framespeed
   public class Animation : ICloneable
   {
     public int CurrentFrame { get; set; }

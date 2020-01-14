@@ -11,6 +11,7 @@ namespace space1.Controls
 {
   public class Button : Component
   {
+        // meny knapp
     #region Fields
 
     private MouseState _currentMouse;

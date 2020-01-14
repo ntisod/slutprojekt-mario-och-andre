@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/elev/Downloads/Space1/Content/Ships/Enemy_2.png</SourceFile>
+  <SourceFile>C:/GitHub/slutprojekt-mario-och-andre/space1/Content/Ships/Enemy_2.png</SourceFile>
   <SourceTime>2019-12-19T22:23:35.6189216+01:00</SourceTime>
-  <DestFile>C:/Users/elev/Downloads/Space1/Content/bin/Windows/Content/Ships/Enemy_2.xnb</DestFile>
-  <DestTime>2019-12-20T14:43:20.3216871+01:00</DestTime>
+  <DestFile>C:/GitHub/slutprojekt-mario-och-andre/space1/Content/bin/Windows/Content/Ships/Enemy_2.xnb</DestFile>
+  <DestTime>2020-01-13T11:34:06.1412592+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

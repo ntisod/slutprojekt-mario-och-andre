@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/elev/Downloads/Space1/Content/Button.png</SourceFile>
+  <SourceFile>C:/GitHub/slutprojekt-mario-och-andre/space1/Content/Button.png</SourceFile>
   <SourceTime>2019-12-19T22:23:35.1132742+01:00</SourceTime>
-  <DestFile>C:/Users/elev/Downloads/Space1/Content/bin/Windows/Content/Button.xnb</DestFile>
-  <DestTime>2019-12-20T14:43:19.9555001+01:00</DestTime>
+  <DestFile>C:/GitHub/slutprojekt-mario-och-andre/space1/Content/bin/Windows/Content/Button.xnb</DestFile>
+  <DestTime>2020-01-13T11:34:05.6665295+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

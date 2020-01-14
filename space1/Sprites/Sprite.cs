@@ -10,6 +10,7 @@ using space1.Models;
 
 namespace space1.Sprites
 {
+    // hanterar sprites
   public class Sprite : Component, ICloneable
   {
     protected Dictionary<string, Animation> _animations;

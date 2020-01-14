@@ -8,6 +8,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace space1.Sprites
 {
+    // hur skotten fungerar, texture, kallar health och bullet
   public class Ship : Sprite, ICollidable
   {
     public int Health { get; set; }

@@ -9,6 +9,7 @@ using space1.Models;
 
 namespace space1.Managers
 {
+    // hanterar scores, som att lägga till scores till en list, och hur listan ska ragnordnas
   public class ScoreManager
   {
     private static string _fileName = "scores.xml";

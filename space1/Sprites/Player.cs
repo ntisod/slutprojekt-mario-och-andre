@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace space1.Sprites
 {
+    // hanterar player som är skeppet, hur det skjuter, förlorar liv, roterar
   public class Player : Ship
   {
     private KeyboardState _currentKey;

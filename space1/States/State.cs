@@ -11,6 +11,7 @@ namespace space1.States
 {
   public abstract class State
   {
+        // alla states som körs som draw postupdate update loadcontent
     protected Game1 _game;
 
     protected ContentManager _content;

@@ -8,6 +8,7 @@ using space1.Models;
 
 namespace space1.Sprites
 {
+    // explosionen för skotten
   public class Explosion : Sprite
   {
     private float _timer = 0f;

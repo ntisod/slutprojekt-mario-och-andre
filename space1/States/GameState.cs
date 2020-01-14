@@ -12,8 +12,10 @@ using space1.Managers;
 
 namespace space1.States
 {
+    // hur spelet fungerar när spelet är igång, om health
   public class GameState : State
   {
+        // variabler
     private EnemyManager _enemyManager;
 
     private SpriteFont _font;
@@ -33,6 +35,7 @@ namespace space1.States
 
     public override void LoadContent()
     {
+            // textures
       var playerTexture = _content.Load<Texture2D>("Ships/Player");
       var bulletTexture = _content.Load<Texture2D>("Bullet");
 
